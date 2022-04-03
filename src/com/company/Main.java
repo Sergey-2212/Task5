@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         Employee[] employee = new Employee[5];
-        employee[0] = new Employee("Гоща", "Южный","gosha@thebest.com", 123456789, 29,70000);
+        employee[0] = new Employee("Гоща", "Южный","gosha@thebest.com", 111113333, 29,70000);
         employee[1] = new Employee("Павел", "Хомяков", "humsterowner@mail.com", 111222333,19, 28000);
         employee[2] = new Employee("Клим", "Ворошилов", "climm@outlook.com", 789456789,42, 55000);
         employee[3] = new Employee("Алена", "Прекрасная", "beautygirl@thebest.com", 444555666, 56, 120000);
